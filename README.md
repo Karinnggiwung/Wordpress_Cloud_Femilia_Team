@@ -1,29 +1,21 @@
 # WordPress Cloud Femilia Team
 
-## Deskripsi Project
+# Deskripsi Project
 Deployment WordPress Enterprise-Ready berbasis Docker Container untuk memenuhi tugas Cloud Computing.
 
-## Anggota Kelompok
+#Anggota Kelompok
 1. Femilia
 2. Karina
 3. Brigita
 4. Hindriyana
 5. Adriana
-   
-## Teknologi yang Digunakan
+
+#Teknologi yang Digunakan
 - Docker
 - WordPress
 - MariaDB
 - Redis (Minggu 2)
 - MinIO (Minggu 2)
-
-## Struktur Arsitektur
-
-User
-↓
-WordPress Container
-↓
-MariaDB Container
 
 ## Cara Menjalankan
 
