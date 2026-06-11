@@ -17,27 +17,19 @@ Deployment WordPress Enterprise-Ready berbasis Docker Container untuk memenuhi t
 - Redis (Minggu 2)
 - MinIO (Minggu 2)
 
-## Cara Menjalankan
-
+# Cara Menjalankan
 1. Clone repository
 2. Buat file .env
-3. Jalankan:
+3. Jalankan: docker compose up -d
+4. Buka browser: http://localhost:8080
 
-docker compose up -d
-
-4. Buka browser:
-
-http://localhost:8080
-
-## Progress Project
-
-### Minggu 1
+# Progress Project
+# Minggu 1
 - Repository GitHub
 - WordPress Container
 - MariaDB Container
 - Docker Volume
 - Docker Network
 
-### Minggu 2
-
-### Minggu 3
+  # Minggu 2
+  # Minggu 3
