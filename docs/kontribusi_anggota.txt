@@ -8,3 +8,22 @@ Anggota 4: Hindriyana L.Rumkedi (230403010039)
 - Membuat custom Docker Network.
 Anggota 5: Adriana Penga (230403010027)
 - Melakukan pengujian dan dokumentasi hasil deployment.
+
+
+
+kontribusi minggu kedua
+1.  Femilia Rista Sari (230403010015)
+  - Mengupdate docker-compose.yml dengan penambahan Redis dan MinIO.
+  - Mengelola repository GitHub dan dokumentasi proyek.
+2.  Maria Karina Nggiwung (230403010012)
+  - Mengonfigurasi WordPress agar terhubung dengan Redis Object Cache.
+  - Melakukan pengujian koneksi Redis pada WordPress.
+3.  Brigita Ernawati Bau (230403010008)
+  - Menginstal dan mengonfigurasi MinIO sebagai Object Storage.
+  - Membuat bucket penyimpanan untuk media WordPress.
+4.  Hindriyana L.Rumkedi (230403010039)
+  - Melakukan pengujian container Docker (WordPress, MariaDB, Redis, dan MinIO).
+  - Membantu troubleshooting error koneksi database dan Redis.
+5.  Adriana Penga (230403010027)
+  - Menyiapkan dan mengumpulkan screenshot hasil implementasi Redis, MinIO, dan penyelesaian course BISA AI.
+  -  Menyusun dokumentasi hasil pengerjaan Minggu 2.
