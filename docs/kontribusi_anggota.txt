@@ -27,3 +27,17 @@ kontribusi minggu kedua
 5.  Adriana Penga (230403010027)
   - Menyiapkan dan mengumpulkan screenshot hasil implementasi Redis, MinIO, dan penyelesaian course BISA AI.
   -  Menyusun dokumentasi hasil pengerjaan Minggu 2.
+
+
+
+Kontribusi minggu ketiga
+1. Femilia Rista Sari (230403010015)
+    Membuat dan mengonfigurasi file .env serta .env.example untuk menyimpan credential aplikasi secara lebih aman.
+2. Maria Karina Nggiwung (230403010012)
+    Memperbarui docker-compose.yml agar menggunakan variabel environment dari file .env dan melakukan pengujian konfigurasi.
+3. Brigita Ernawati Bau (230403010008)
+    Membuat dan mengonfigurasi file .gitignore untuk memastikan file .env tidak terunggah ke GitHub.
+4. Hindriyana L.Rumkedi (230403010039)
+    Membantu pengecekan hasil konfigurasi Docker, WordPress, MariaDB, Redis, dan MinIO setelah perubahan keamanan diterapkan.
+5. Adriana Penga (230403010027)
+    Melakukan dokumentasi, commit, dan push perubahan ke repository GitHub serta verifikasi hasil deploy.
